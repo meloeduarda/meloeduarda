@@ -1,4 +1,4 @@
-# 👩‍💻 Olá, me chamo Maria Eduarda Melo
+# 👩‍💻 Olá, me chamo Maria Eduarda
 
 🎓 Estudante de Engenharia de Controle e Automação na UFLA  
 ⚙️ Apaixonada por sistemas embarcados, automação e eletrônica  
